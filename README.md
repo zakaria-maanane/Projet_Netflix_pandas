@@ -19,7 +19,7 @@ Transformer des données brutes en informations utiles pour proposer une straté
 💡 Ce travail nous a permis de tirer des conclusions claires et de formuler des recommandations concrètes pour aider Netflix à mieux fidéliser ses utilisateurs et à proposer des contenus plus en phase avec leurs attentes.  
 Une belle expérience de travail en équipe, de résolution de problèmes, et de mise en pratique des outils data pour générer de la valeur à partir de données réelles.
 
-🔗 **Lien GitHub :** [https://lnkd.in/exVj-g4P](https://lnkd.in/exVj-g4P)
+🔗 **Lien Linkedin : https://www.linkedin.com/feed/update/urn:li:activity:7321285847905931264/
 
 ---
 
