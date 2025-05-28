@@ -1,3 +1,10 @@
+# Analyse des comportements utilisateurs Netflix avec Pandas
+
+Ce projet d’analyse de données s’appuie sur un fichier CSV riche en informations sur le comportement des utilisateurs de Netflix.  
+L’objectif principal était de transformer ces données brutes en insights exploitables afin de mieux comprendre la consommation, identifier des tendances, et proposer des recommandations stratégiques adaptées.
+
+---
+
 Grâce à mes collègues **Perla Assuied** et **Rayanne Sadek**, ainsi qu’aux directives de **Akram Toumani**, nous avons travaillé sur un projet d’analyse de données autour d’un fichier CSV riche en informations sur le comportement des utilisateurs de Netflix.
 
 🔍 **Objectif** :  
